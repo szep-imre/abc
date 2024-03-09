@@ -1,6 +1,6 @@
 # Risk Assessment
 
-```
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -31,3 +31,6 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
 ```
+
+<img width="857" alt="simulated UBER stock prices" src="https://github.com/szep-imre/risk-analytics/assets/47005175/eca9c5b1-357e-4a56-ab16-6a6e054e3f6e">
+
